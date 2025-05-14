@@ -29,6 +29,7 @@ async function carrera(){
     // await Promise.all([promise1,promise2,promise3]);
     // console.log("se termino la carrera")
     return Promise.all([promise1,promise2,promise3]);
+    
 
 }
 
